@@ -1,0 +1,16 @@
+El proposito del sitio es 
+
+https://youtu.be/cSlxrgcBIR8
+https://youtu.be/cSlxrgcBIR8
+
+https://upload.wikimedia.org/wikipedia/commons/2/2b/CSS_grid_x_Flexbox_layout.png
+
+
+11.Sincronice su carpeta local del sitio web, con el repositorio en  GitHub y publique el sitio con GitHub Page. 
+
+
+Para publicar en gitHub Page ingrese a su repositorio a través del navegador. Seleccionar la opción Setting, en el menú de la izquierda seleccionar Pages, en source seleccionar main o master, dejar la otra opción en root, clic en guardar y Luego buscas de nuevo la sección
+
+
+
+https://ytibochac.github.io/DSW-YamidTibocha/ 
